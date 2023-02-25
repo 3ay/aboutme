@@ -5,6 +5,7 @@
 | Страна      | Россия       |
 | Город       | Москва       |
 | E-mail      | arakusei-san@yandex.ru |
+| Telegram    | @lexzet |
 
 О себе
 ---------
